@@ -1,8 +1,6 @@
 ## ALI HASNAIN BUKHARI
 
-You can use the [editor on GitHub](https://github.com/alibukharipk/alibukharipk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Innovative Software Programmer Specializing in Asp.net, C#.Net, MVC, Asp.net Core, Web API, Entity Framework, AJAX, AngularJS 2.0, Payment gateways, Html/CSS, Web Services, Windows Service, WCF, JQuery/JavaScript with solid skills learned through practical experience, academic projects, self-instruction, and experimentation. Able to utilize programming experience, dedicated towards learning new languages and technology. Good in understanding programs written by others besides being an excellent communicator and team player
 
 ### Markdown
 
