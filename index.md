@@ -13,7 +13,7 @@ MS SQL Server (2000, 2005, 2008, 2012, 2014, 2016, 2018), MySQL
 #### OPERATING SYSTEMS:
 Microsoft Window NT/2000/XP/7/8/10
 
-## PRROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 ### Technical Success Manager
 (.Net Specialist | MCSD | Technical Success Manager | VP Operations CodeMovementPK)
