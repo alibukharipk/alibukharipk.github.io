@@ -9,7 +9,7 @@ C#.Net, ASP.Net (2.0, 3.0, 3.5, 4.0), Asp.net core, Ajax, JavaScript, JQuery, Ht
 #### DEVELOPMENT TOOLS for Windows:
 MS Studio.Net 2005, 2008, 2010, 2013, 2015, 2017, 2019
 #### DATABASE:
-MS SQL Server (2000, 2005, 2008, 2012, 2014,2016), MySQL
+MS SQL Server (2000, 2005, 2008, 2012, 2014, 2016, 2018), MySQL
 #### OPERATING SYSTEMS:
 Microsoft Window NT/2000/XP/7/8/10
 
@@ -28,3 +28,15 @@ Feb 2010 – Present - Islamabad
 - Support and organize team building activities
 - Assure that the team addresses all relevant issues within the specifications and various standard
 - Keeping the project manager and product committee informed of task accomplishment, issues and status
+
+### Senior .Net Developer
+#### Ramnlabs
+Mar 2008 – Jan 2010
+- Managing new products and providing guidelines to subordinates.
+- Consult with clients to develop and document web site requirements
+- Prepare mock-up, storyboards and develop web site architecture
+- Design the appearance, layout and flow of the Web site
+- Create and optimize content for the web site using Microsoft Dot Net Framework (ASP.NET, Web Services in VB.NET, Visual Studio 2005, C++/C/C#, JAVA, SQL Server 2005)
+- Plan, design, write, modify, integrate and test system codes
+- Perform security and quality controls
+- Co-ordinate multidisciplinary team to develop web site graphics, content, capacity and interactivity
