@@ -1,6 +1,6 @@
 # ALI HASNAIN BUKHARI 
 
-Innovative Software Programmer Specializing in Asp.net, C#.Net, MVC, Asp.net Core, Web API, Entity Framework, AJAX, AngularJS 2.0, Payment gateways, Html/CSS, Web Services, Windows Service, WCF, JQuery/JavaScript with solid skills learned through practical experience, academic projects, self-instruction, and experimentation. Able to utilize programming experience, dedicated towards learning new languages and technology. Good in understanding programs written by others besides being an excellent communicator and team player.
+Innovative Software Programmer Specializing in Asp.net, C#.Net, MVC, Asp.net Core, Web API, Entity Framework, AJAX, Angular 2.0+, Payment gateways, Html/CSS, Web Services, Windows Service, WCF, JQuery/JavaScript with solid skills learned through practical experience, academic projects, self-instruction, and experimentation. Able to utilize programming experience, dedicated towards learning new languages and technology. Good in understanding programs written by others besides being an excellent communicator and team player.
 
 ## Technical Skills
 
