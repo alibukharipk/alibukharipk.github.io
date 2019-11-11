@@ -4,7 +4,7 @@ Innovative Software Programmer Specializing in Asp.net, C#.Net, MVC, Asp.net Cor
 
 # Technical Skills
 
-# PROGRAMMING LANGUAGES:
+#### PROGRAMMING LANGUAGES:
 C#.Net, ASP.Net (2.0, 3.0, 3.5, 4.0), Asp.net core, Ajax, JavaScript, JQuery, Html, CSS, Web Services, Windows Services, MVC, WCF, Web API, AngularJS
 **DEVELOPMENT TOOLS for Windows:**
 MS Studio.Net 2005, 2008, 2010, 2013, 2015, 2017, 2019
