@@ -18,8 +18,7 @@ Microsoft Window NT/2000/XP/7/8/10
 ### Technical Success Manager
 (.Net Specialist | MCSD | Technical Success Manager | VP Operations CodeMovementPK)
 #### DatumSquare IT Services
-Feb 2010 – Present
-Location Islamabad
+Feb 2010 – Present - Islamabad
 - Creating an inspiring team environment based on trust, collaboration and open communication culture
 - Supporting project managers/clients, helping them achieve their goals, meeting deadlines and keeping the team motivated
 - Encouraging team members in communication, team building, identifying areas of new training or technical skill updates
