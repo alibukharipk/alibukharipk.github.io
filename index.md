@@ -4,11 +4,6 @@ Innovative Software Programmer Specializing in Asp.net, C#.Net, MVC, Asp.net Cor
 
 # Technical Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 ## PROGRAMMING LANGUAGES:
 C#.Net, ASP.Net (2.0, 3.0, 3.5, 4.0), Asp.net core, Ajax, JavaScript, JQuery, Html, CSS, Web Services, Windows Services, MVC, WCF, Web API, AngularJS
 ## DEVELOPMENT TOOLS for Windows:
