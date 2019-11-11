@@ -62,7 +62,7 @@ Aug 2005 – Feb 2008
 - Scrum Fundamentals Certified
 - **Certificate of Appreciation/Merit:** From BACSAP (Bahria Association of Computer Students and Professionals) on organizing Bits, Bytes and Colors.
 - **Employee of the Month:** Many times won award for outstanding performance in FlashedCoder & Ramnlabs.
-- **Consistent Employee of the Month:** Won the award twice on winning 10 employee of the month awards in 14 months in DatumSquare. Full salary was awarded as bonus as well.
+- **Consistent Employee of the Month:** Won the award twice on winning 10 employee of the month awards in DatumSquare. Full salary was awarded as bonus as well.
 - **Laptop:** Won a laptop for outstanding performances in 2 years for DatumSquare.
 - **Ping Pong Champion:** Won Singles and Doubles tournaments in DatumSquare.
 - **President Table Tennis panel:** Became table tennis president DatumSquare for outstanding performances besides providing innovative ideas for improvement of the game. 
