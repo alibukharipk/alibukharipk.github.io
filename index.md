@@ -40,3 +40,14 @@ Mar 2008 – Jan 2010
 - Plan, design, write, modify, integrate and test system codes
 - Perform security and quality controls
 - Co-ordinate multidisciplinary team to develop web site graphics, content, capacity and interactivity
+
+### Net Web Developer
+#### FlashedCoder
+Aug 2005 – Feb 2008
+- Design, develop and test web based solutions using .Net.
+- Development of cross platform products.
+- Create and optimize content for the web site using Microsoft Dot Net Framework (ASP.NET, Web Services in VB.NET, Visual Studio 2005, - C++/C/C#, JAVA, SQL Server 2005)
+- Feature enhancement and bug fixing.
+- Working in collaboration with teams.
+- Collect and document user's requirements and develop logical and physical specifications
+- Assess, test, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software
