@@ -51,3 +51,8 @@ Aug 2005 – Feb 2008
 - Working in collaboration with teams.
 - Collect and document user's requirements and develop logical and physical specifications
 - Assess, test, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software
+
+## Education
+2005 Bachelor of Software Engineering - Bahria University, Islamabad (2001 – 2005) 
+2001 HSC - Federal Govt. College for Men, Islamabad  
+1999 SSC - Jinnah Public School, G-11/3 Islamabad  
