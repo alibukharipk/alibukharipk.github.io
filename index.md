@@ -15,10 +15,10 @@ Microsoft Window NT/2000/XP/7/8/10
 
 ## PRROFESSIONAL EXPERIENCE
 
-### Technical Success Manager - .Net Specialist | MCSD | Technical Success Manager | VP Operations CodeMovementPK
-#### Company NameDatumSquare IT Services
-Dates EmployedFeb 2010 – Present
-Employment Duration9 yrs 10 mos
+### Technical Success Manager
+(.Net Specialist | MCSD | Technical Success Manager | VP Operations CodeMovementPK)
+#### DatumSquare IT Services
+Feb 2010 – Present
 LocationIslamabad
 - Creating an inspiring team environment based on trust, collaboration and open communication culture
 - Supporting project managers/clients, helping them achieve their goals, meeting deadlines and keeping the team motivated
