@@ -41,7 +41,7 @@ Mar 2008 – Jan 2010
 - Perform security and quality controls
 - Co-ordinate multidisciplinary team to develop web site graphics, content, capacity and interactivity
 
-### Net Web Developer
+### DotNet Web Developer
 #### FlashedCoder
 Aug 2005 – Feb 2008
 - Design, develop and test web based solutions using .Net.
